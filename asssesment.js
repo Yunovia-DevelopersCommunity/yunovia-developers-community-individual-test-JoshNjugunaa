@@ -1,4 +1,4 @@
-🧠 Coding Assessment – August 2025 1st edition individual assessment.
+yees🧠 Coding Assessment – August 2025 1st edition individual assessment.
 
 
 A block is defined as a word consisting of only one type of letter. For example, aaaa and xx are valid blocks, while bbbcc (two different letters) and xyz (three different letters) are not.
